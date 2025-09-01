@@ -57,7 +57,7 @@ Key concepts illustrated in this simulation:
 
 If you use this simulation in academic work, please cite:
 
-Edward Meisner, "PQNN Rare-State Selection Simulation", GitHub repository, 2025. Available at:Got it, Edward — here’s your updated professional README with the GIF preview section already integrated so it’s ready to drop into your repo the moment you add simulation.gif.
+Edward Meisner, "PQNN Rare-State Selection Simulation", GitHub repository, 2025. Available at:
 
 # PQNN Rare-State Selection Simulation
 
